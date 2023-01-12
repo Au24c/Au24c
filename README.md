@@ -18,7 +18,7 @@
 
 #### Ready to be Inspired by ✨Amazing people✨ online ~
 - You can Reach me on
-<br>📫  aliciadgreat@outlook.com
+<br>📫  arshi.usmani@gmail.com
 
 ***
    ###### Would be great if you could help me out with internship opportunities :)
