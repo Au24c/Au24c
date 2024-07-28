@@ -7,7 +7,7 @@
 
 - I'm looking forward to collaborating on Web Development Projects.
 
-<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
+
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Au24c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,7 +23,7 @@
 
 ***
    ###### Would be great if you could help me out with internship opportunities :)
-
+<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
 <!---
 Au24c/Au24c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
