@@ -23,7 +23,7 @@
 
 ***
    ###### Would be great if you could help me out with internship opportunities :)
-<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
+
 <!---
 Au24c/Au24c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
