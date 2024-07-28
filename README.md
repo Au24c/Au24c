@@ -7,6 +7,7 @@
 
 - I'm looking forward to collaborating on Web Development Projects.
 
+<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Au24c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
