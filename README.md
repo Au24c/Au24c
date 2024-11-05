@@ -13,8 +13,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Au24c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
+<!---
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Au24c&theme=ads-juicy-fresh&hide_border=true&date_format=%5BY%20%5DM%20j)
-
+--->
 
 
 #### Ready to be Inspired by ✨Amazing people✨ online ~
