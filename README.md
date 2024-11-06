@@ -10,7 +10,8 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Au24c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Au24c&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 <!---
