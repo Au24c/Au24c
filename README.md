@@ -1,8 +1,8 @@
 # Hey there! I’m Arshi :comet:
 
 ###### “Self-taught”   Front-end Web Developer | Graphic Designer | Novice Animator![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%2336BCF7&size=17&duration=1000&vCenter=true&height=19&lines=%F0%9F%8C%A9%EF%B8%8F)
-<br>
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 - I love Learning new things & Building Projects :fire::muscle:
 
 - I'm looking forward to collaborating on Web Development Projects.
